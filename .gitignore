@@ -1,0 +1,6 @@
+
+.venv/
+__pycache__/
+*.pyc
+sentiment_model.pkl
+.streamlit/secrets.toml
